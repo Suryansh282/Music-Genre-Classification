@@ -1,0 +1,42 @@
+Retrying.
+
+--2025-03-31 23:23:22--  (try:11)  http://opihi.cs.uvic.ca/sound/genres.tar.gz
+Connecting to opihi.cs.uvic.ca (opihi.cs.uvic.ca)|142.104.68.135|:80... failed: Connection timed out.
+Retrying.
+
+--2025-03-31 23:25:45--  (try:12)  http://opihi.cs.uvic.ca/sound/genres.tar.gz
+Connecting to opihi.cs.uvic.ca (opihi.cs.uvic.ca)|142.104.68.135|:80... failed: Connection timed out.
+Retrying.
+
+--2025-03-31 23:28:09--  (try:13)  http://opihi.cs.uvic.ca/sound/genres.tar.gz
+Connecting to opihi.cs.uvic.ca (opihi.cs.uvic.ca)|142.104.68.135|:80... failed: Connection timed out.
+Retrying.
+
+--2025-03-31 23:30:32--  (try:14)  http://opihi.cs.uvic.ca/sound/genres.tar.gz
+Connecting to opihi.cs.uvic.ca (opihi.cs.uvic.ca)|142.104.68.135|:80... failed: Connection timed out.
+Retrying.
+
+--2025-03-31 23:32:55--  (try:15)  http://opihi.cs.uvic.ca/sound/genres.tar.gz
+Connecting to opihi.cs.uvic.ca (opihi.cs.uvic.ca)|142.104.68.135|:80... failed: Connection timed out.
+Retrying.
+
+--2025-03-31 23:35:19--  (try:16)  http://opihi.cs.uvic.ca/sound/genres.tar.gz
+Connecting to opihi.cs.uvic.ca (opihi.cs.uvic.ca)|142.104.68.135|:80... failed: Connection timed out.
+Retrying.
+
+--2025-03-31 23:37:42--  (try:17)  http://opihi.cs.uvic.ca/sound/genres.tar.gz
+Connecting to opihi.cs.uvic.ca (opihi.cs.uvic.ca)|142.104.68.135|:80... failed: Connection timed out.
+Retrying.
+
+--2025-03-31 23:40:06--  (try:18)  http://opihi.cs.uvic.ca/sound/genres.tar.gz
+Connecting to opihi.cs.uvic.ca (opihi.cs.uvic.ca)|142.104.68.135|:80... failed: Connection timed out.
+Retrying.
+
+--2025-03-31 23:42:29--  (try:19)  http://opihi.cs.uvic.ca/sound/genres.tar.gz
+Connecting to opihi.cs.uvic.ca (opihi.cs.uvic.ca)|142.104.68.135|:80... failed: Connection timed out.
+Retrying.
+
+--2025-03-31 23:44:52--  (try:20)  http://opihi.cs.uvic.ca/sound/genres.tar.gz
+Connecting to opihi.cs.uvic.ca (opihi.cs.uvic.ca)|142.104.68.135|:80... failed: Connection timed out.
+Giving up.
+
